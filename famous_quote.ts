@@ -1,0 +1,1 @@
+console.log('Mother Teresa once said,"Peace begins with a smile"'); 
